@@ -4,7 +4,7 @@
   "author": "OpenStack CI",
   "summary": "Deploys CI Watch - third-party CI status monitoring solution",
   "license": "Apache-2.0",
-  "source": "git://git.openstack.org/openstack-infra/puppet-ciwatch.git",
+  "source": "https://git.openstack.org/openstack-infra/puppet-ciwatch.git",
   "project_page": "http://docs.openstack.org/infra/system-config/",
   "issues_url": "https://storyboard.openstack.org/#!/project/834",
   "dependencies": [
