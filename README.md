@@ -1,6 +1,3 @@
-# CI Watch monitoring dashboard
+# This repo has moved to OpenDev
 
-## Overview
-
-Deploys CI Watch, CI monitoring dashboard that provides status history overview
-for a CI system.
+It can now be found at [https://opendev.org/opendev/puppet-ciwatch](https://opendev.org/opendev/puppet-ciwatch)
